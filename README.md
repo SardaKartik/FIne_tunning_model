@@ -80,14 +80,3 @@ We evaluate the model using:
 - Compare with fully fine-tuned baselines
 
 ---
-
-## 📬 Contact
-
-Feel free to open an issue or discussion if you want to collaborate or have any questions!
-
----
-
-## ⭐️ If you find this helpful, give the repo a star!
-```
-
-Let me know if you also want a badge (like Open in Colab or Hugging Face Spaces) added at the top!
